@@ -11,7 +11,12 @@ An implementation of a C++ template class for a linked list using a node class
   - `print()`: Prints the entire list.
   - `Destructor`: Cleans up all nodes when the list is destroyed to prevent memory leaks.
 
-## Activities:
-1. Add `First` - remove and return first element in list
-2. Add `Last` - remove and return last element in list
-3. Add `AddOrder` - add element in sorted order (must not use with `append` and `prepend`)
+## Activities Day 1:
+1. Add `lfirst` - remove and return first element in list
+2. Add `last` - remove and return last element in list
+3. Add `addOrder` - add element in sorted order (must not use with `append` and `prepend`)
+
+## Activities Day 2:
+1. Make the list doubly linked
+2. Add push_back and push_front (remove append and prepend)
+3. Add Add pop_back and pop_front (remove first and last)
