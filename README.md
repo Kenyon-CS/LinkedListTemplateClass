@@ -12,6 +12,6 @@ An implementation of a C++ template class for a linked list using a node class
   - `Destructor`: Cleans up all nodes when the list is destroyed to prevent memory leaks.
 
 ## Activities:
-1. Add `First` - remove tand return forst element in list
+1. Add `First` - remove and return first element in list
 2. Add `Last` - remove and return last element in list
 3. Add `AddOrder` - add element in sorted order (must not use with `append` and `prepend`)
